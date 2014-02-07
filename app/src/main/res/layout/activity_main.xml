@@ -7,10 +7,10 @@
     tools:ignore="MergeRootFrame" >
 
     <TextView
-        android:layout_width="192dp"
-        android:layout_height="157dp"
+        android:layout_width="287dp"
+        android:layout_height="328dp"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Это большой текст"
+        android:text="Это ОЧЕНЬ большой текст"
         android:id="@+id/textView"
         android:layout_gravity="center" />
 </FrameLayout>
