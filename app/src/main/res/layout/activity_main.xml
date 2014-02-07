@@ -12,4 +12,11 @@
         android:text="New Switch"
         android:id="@+id/switch1"
         android:layout_gravity="center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="133dp"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal|top" />
 </FrameLayout>
